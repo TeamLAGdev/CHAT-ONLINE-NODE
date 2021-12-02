@@ -1,3 +1,3 @@
 # CHAT PI
-Para da start ao servidor digite  "node .\server.js"
-Ao iniciar digite "nmp install" para instalar as dependencias
+1. Primeiro instale as dependecias do node usando o comando "nmp install"
+2. Para da start ao servidor digite  "node .\server.js" ou npm start
